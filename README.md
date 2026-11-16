@@ -325,7 +325,6 @@ the appropriate copyright holder and year.
 
 ## Author
 
-**Paramveer Singh**\
-B.Tech --- Artificial Intelligence & Machine Learning
+**Rishab Jain & Paramveer Singh**\
 
 Built as a personal desktop voice-assistant project.
