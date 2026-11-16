@@ -325,6 +325,6 @@ the appropriate copyright holder and year.
 
 ## Author
 
-**Rishab Jain & Paramveer Singh**\
+**Rishab Jain & Paramveer Singh**
 
 Built as a personal desktop voice-assistant project.
